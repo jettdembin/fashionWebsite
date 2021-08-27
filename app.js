@@ -198,3 +198,4 @@ function detailAnimation() {
 burger.addEventListener("click", navToggle);
 window.addEventListener("mousemove", cursor);
 window.addEventListener("mouseover", activeCursor);
+
